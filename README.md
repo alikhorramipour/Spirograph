@@ -4,5 +4,5 @@
 # Installation
  1. Open up Xcode
  2. Click on File > Open
- 3. Select BeALoser.xcodeproj
+ 3. Select Drawing.xcodeproj
  4. Press Command+R to Build
